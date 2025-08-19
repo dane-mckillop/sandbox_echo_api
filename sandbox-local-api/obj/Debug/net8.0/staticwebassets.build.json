@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qEE276EioGfweJrFmIPSOdv33gLsvNrzP9Arnny3rNo=",
+  "Source": "sandbox-local-api",
+  "BasePath": "_content/sandbox-local-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
